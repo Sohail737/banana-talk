@@ -54,7 +54,7 @@ body{
 .button{
     background-color: var(--primary-color);
     border: solid;
-    margin: 2rem 1rem;
+    margin: 2rem 0rem;
     padding: 1rem 2rem;
     font-family: 'Kalam', cursive;
     font-size: medium;

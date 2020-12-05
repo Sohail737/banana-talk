@@ -59,7 +59,8 @@ body{
     padding: 1rem;
     font-family: 'Kalam', cursive;
     font-size: medium;
-    }
+}
+
 .footer{
     background-color: var(--primary-color);
     padding:1rem;
@@ -68,6 +69,7 @@ body{
     box-sizing: border-box;
     display: block;
     width:100%;
+    position: absolute;
 }
 
 .footer-header{

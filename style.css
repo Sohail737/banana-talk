@@ -26,7 +26,7 @@ body{
     letter-spacing:0.1rem;
     background-color: var(--primary-color);
     padding:1rem;
-    margin-bottom:1rem;
+    margin-bottom:2rem;
 }
 
 .input{
@@ -64,7 +64,7 @@ body{
     background-color: var(--primary-color);
     padding:1rem;
     text-align:center;
-    margin-top:1rem;
+    margin-top:2rem;
     box-sizing: border-box;
     display: block;
     width:100%;

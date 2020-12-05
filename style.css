@@ -31,7 +31,7 @@ body{
 
 .input{
     display:block;
-    height:20vh;
+    height:15vh;
     padding:1rem;
     box-sizing:border-box;
     width:80%;
@@ -45,7 +45,7 @@ body{
     box-sizing: border-box;
     border:solid;
     padding:1rem;
-    height:20vh;
+    height:15vh;
     width:80%;
     max-width:600px;
     margin:auto;
@@ -66,6 +66,10 @@ body{
     padding:1rem;
     text-align:center;
     margin-top:2rem;
+    position: fixed;
+    bottom:0;
+    box-sizing: border-box;
+    width: 100%;
 }
 
 .footer-header{

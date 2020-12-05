@@ -66,10 +66,6 @@ body{
     padding:1rem;
     text-align:center;
     margin-top:2rem;
-    box-sizing: border-box;
-    display: block;
-    width:100%;
-    position: absolute;
 }
 
 .footer-header{

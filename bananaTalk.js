@@ -16,8 +16,7 @@ function clickHandler(){
     let inputText=txtInput.value;
 
     fetch(constructUrl(inputText))
-    .then(res=>{res.json()}
-    )
+    .then(res=>res.json())
     .then(json=>{
         let translatedText=json.contents.translated;
         txtOutput.innerText=translatedText;

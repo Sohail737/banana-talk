@@ -14,18 +14,19 @@ body{
 
 .container-center{
     max-width: 600px;
+    width: 80%;
     padding:1rem;
     margin:auto;
 }
 
 .hero{
     text-align: center;
-    font-size: larger;
+    font-size: large;
     font-weight: bold;
     letter-spacing:0.1rem;
     background-color: var(--primary-color);
-    padding:3rem 1rem;
-    margin-bottom:2rem;
+    padding:1rem;
+    margin-bottom:1rem;
 }
 
 .input{
@@ -33,7 +34,7 @@ body{
     height:20vh;
     padding:1rem;
     box-sizing:border-box;
-    width:100%;
+    width:80%;
     max-width:600px;
     margin:auto;
     border:solid;
@@ -45,7 +46,7 @@ body{
     border:solid;
     padding:1rem;
     height:20vh;
-    width:100%;
+    width:80%;
     max-width:600px;
     margin:auto;
     font-size: large;
@@ -54,20 +55,23 @@ body{
 .button{
     background-color: var(--primary-color);
     border: solid;
-    margin: 2rem 0rem;
-    padding: 1rem 2rem;
+    margin: auto;
+    padding: 1rem;
     font-family: 'Kalam', cursive;
     font-size: medium;
     }
 .footer{
     background-color: var(--primary-color);
-    padding:2rem 1rem;
+    padding:1rem;
     text-align:center;
-    margin-top:2rem;
+    margin-top:1rem;
+    box-sizing: border-box;
+    display: block;
+    width:100%;
 }
 
 .footer-header{
-    font-size: larger;
+    font-size: large;
     font-weight: bold;
     text-align: center;
     letter-spacing:0.1rem;

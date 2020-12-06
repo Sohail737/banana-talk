@@ -42,6 +42,7 @@ body{
 }
 
 .output{
+    display:block;
     box-sizing: border-box;
     border:solid;
     padding:1rem;

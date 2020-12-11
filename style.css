@@ -74,13 +74,13 @@ body{
         letter-spacing:0.1rem;
         background-color: var(--primary-color);
         padding:1rem;
-        margin-bottom:6rem;
+        margin-bottom:7rem;
     }
     .footer {
         background-color: var(--primary-color);
         padding:1rem;
         text-align:center;
-        margin-top:6rem;
+        margin-top:7rem;
     }
 }
 

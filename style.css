@@ -25,7 +25,7 @@ body{
     letter-spacing:0.1rem;
     background-color: var(--primary-color);
     padding:1rem;
-    margin-bottom:2rem;
+    margin-bottom:3rem;
 }
 
 .input{
@@ -62,15 +62,25 @@ body{
     background-color: var(--primary-color);
     padding:1rem;
     text-align:center;
-    margin-top:4rem;
+    margin-top:3rem;
 }
 
 @media only screen and (max-width: 430px) {
+
+    .hero{
+        text-align: center;
+        font-size: large;
+        font-weight: bold;
+        letter-spacing:0.1rem;
+        background-color: var(--primary-color);
+        padding:1rem;
+        margin-bottom:8rem;
+    }
     .footer {
         background-color: var(--primary-color);
         padding:1rem;
         text-align:center;
-        margin-top:12rem;
+        margin-top:8rem;
     }
 }
 

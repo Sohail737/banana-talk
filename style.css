@@ -13,9 +13,10 @@ body{
 
 
 .container-center{
-    width: 80%;
+    width: 60%;
     padding:1rem;
     margin:auto;
+    text-align: center;
 }
 
 .hero{
@@ -33,7 +34,7 @@ body{
     height:15vh;
     padding:1rem;
     box-sizing:border-box;
-    width:80%;
+    width:60%;
     margin:auto;
     border:solid;
     font-size: large;
@@ -44,7 +45,7 @@ body{
     border:solid;
     padding:1rem;
     height:15vh;
-    width:80%;
+    width:60%;
     margin:auto;
     font-size: large;
 }
@@ -56,6 +57,9 @@ body{
     padding: 1rem;
     font-family: 'Kalam', cursive;
     font-size: medium;
+    cursor: pointer;
+    outline: none;
+    border-radius: 0.5rem;
 }
 
 .footer{

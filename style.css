@@ -53,7 +53,6 @@ body{
 .button{
     background-color: var(--primary-color);
     border: solid;
-    margin: auto;
     padding: 1rem;
     font-family: 'Kalam', cursive;
     font-size: medium;
